@@ -15,7 +15,7 @@
 
 - 🏢 I'm a student at faculty of computer science HTI university
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with c++,dart,flutter or anything related to web development.
+- 💬 Ask me about my experience with flutter or anything related to web development.
 
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
